@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-code-day-1-puzzle-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.11.11",
+    "ts-jest": "^29.0.3",
+    "typescript": "^4.9.3"
+  }
+}
